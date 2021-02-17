@@ -43,6 +43,6 @@ The available options are:
 | nativeOnMobile   | display the original select "dropdown" when on mobile   | true                        |
 | mobileBreakpoint | window width (px) under which to be considered "mobile" | 1024                        |
 | wrapperClass     | the class added to the wrapper element                  | 'better-select'             |
-| triggerClass     | the class added to the wrapper element                  | 'better-select\_\_trigger'  |
-| dropdownClass    | the class added to the wrapper element                  | 'better-select\_\_dropdown' |
+| triggerClass     | the class added to the trigger element                  | 'better-select\_\_trigger'  |
+| dropdownClass    | the class added to the dropdown element                 | 'better-select\_\_dropdown' |
 | zIndex           | the z-index to be set on the custom select wrapper      | decrementing from 100       |
