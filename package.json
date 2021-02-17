@@ -1,0 +1,24 @@
+{
+  "name": "@bogdanbeniaminb/better-select",
+  "description": "A custom select plugin",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdanbeniaminb/better-select.git"
+  },
+  "keywords": [
+    "custom",
+    "select"
+  ],
+  "author": "Bogdan Barbu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bogdanbeniaminb/better-select/issues"
+  },
+  "homepage": "https://github.com/bogdanbeniaminb/better-select#readme"
+}
